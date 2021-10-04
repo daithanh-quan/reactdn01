@@ -2,7 +2,8 @@
 // import ClassComponent from './Components/ClassComponent';
 // import FunctionComponent from './Components/FunctionComponent';
 import './App.css'
-import ChangeFontSize from './StateDemo/ChangeFontSize';
+import BaiTapChonXe from './BaiTapChonXe/BaiTapChonXe';
+// import ChangeFontSize from './StateDemo/ChangeFontSize';
 // import StateDemo from './StateDemo/StateDemo';
 // import HandleEvent from './HandleEvent/HandleEvent';
 // import DataBinding from './DataBinding/DataBinding';
@@ -19,7 +20,8 @@ function App() {
       {/* <StyleComponent /> */}
       {/* <HandleEvent /> */}
       {/* <StateDemo /> */}
-      <ChangeFontSize />
+      {/* <ChangeFontSize /> */}
+      <BaiTapChonXe />
     </div>
   );
 }
