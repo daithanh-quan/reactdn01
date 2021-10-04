@@ -1,0 +1,23 @@
+.header {
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+.navigation {
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+.content {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+}
